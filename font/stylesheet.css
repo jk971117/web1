@@ -1,0 +1,22 @@
+@font-face {
+    font-family: '';
+    src: url('Eulyoo1945-SemiBold.eot');
+    src: url('Eulyoo1945-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Eulyoo1945-SemiBold.woff2') format('woff2'),
+        url('Eulyoo1945-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Eulyoo1945-Regular.eot');
+    src: url('Eulyoo1945-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Eulyoo1945-Regular.woff2') format('woff2'),
+        url('Eulyoo1945-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

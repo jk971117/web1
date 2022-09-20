@@ -142,8 +142,13 @@ header .depth01 ul li {
   font-family: 'Eulyoo1945-SemiBold';
   font-size: 70px;
   color: #000;
+  
+}
+[data-aos][data-aos][data-aos-duration="400"], body[data-aos-duration="400"] [data-aos] {
+   transition-duration:1s !important;
+}
 
- }
+ 
  .cont02 div img { 
    
  }
